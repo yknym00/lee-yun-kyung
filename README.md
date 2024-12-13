@@ -1,35 +1,34 @@
-# 💞 AI 코딩 활용 영어수업 과제 만들기 
+# Lesson Plan
+# 🎄 AI 코딩 활용 영어수업 과제 만들기 💞
 ## Professor Junkyu Lee (HUFS)
-### 2024년 6월 20일 17:00-18:00
+### 2024년 12월 11일 20:00-21:00
 + [PPT](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/AI%EC%BD%94%EB%94%A9%EC%98%81%EC%96%B4%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%A4%80%EA%B7%9C_20June2024.pdf)
-+ [QR code](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/myqrcode.png)
-    
-### Sample
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
-+ [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html)
++ [QR code](https://github.com/jinnyshin54/sAmPle-leSSoN/blob/9a6701b25d8d010b5f8b44592e01e900b44389c5/Github%20Page.png)
 
 ## special thanks to Dr. Miran Kim (GNU) and her students
 
-# ⚔️ Sample lessons  
-+ Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
+# ☃ Sample lessons  
++ Overview of the project: This project aims to teach middle school students using the story "The Little Match Girl," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
 
 ## Useful Links
-|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
+|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan
+## 🎄Lesson Plan
 
-![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The_final_banner3.jpg?raw=true)
+![Final Banner](https://github.com/jinnyshin54/sAmPle-leSSoN/blob/d0eb4f3bfc23d69b10438f25a1f6f3cdee3dd9b2/I'm%20dreaming%20of%20a.png)
 
-## Overview
-This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
+## 💡 Overview
+This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Little Match Girl"
 
-## Objectives
+## ☃ Objectives
 - 📚 Improve vocabulary knowledge
 - 🎧 Enhance listening comprehension
 - 🧩 Develop sequencing skills
 - ✍️ Foster creative writing abilities
 
 ## Tools Used
+
+**Canva:** For creating interresting images.
 
 **Gradio:** For creating interactive web apps.
 
@@ -108,14 +107,17 @@ This lesson plan is designed for middle school students and focuses on enhancing
 ## Lesson Materials
 
 ### Story Title: The Guardian's Secret 
-+ [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
++ [text link](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
 **<Synopsis>**
-In Echo Ridge, a mountain village enriched with legends of the "Guardian of the Glen" eagle, adventurous Alex discovers an ancient map in a library book that hints at a hidden treasure in Whispering Hollow cave. Along with friends Mia and Sam, Alex embarks on a challenging expedition through dense forests and rugged terrain. Upon reaching the cave, they find not gold, but historical artifacts including a statuette of the Guardian eagle, which they donate to the local museum. This discovery not only cements their status as local heroes but revitalizes the village's interest in its own lore and history, continuing the legend of the Guardian as a symbol of adventure and cultural heritage.
+On a freezing New Year's Eve, a poor little girl wanders the snowy streets, barefoot and shivering. She tries to sell matches to passersby but receives no attention. Unable to return home for fear of her abusive father, who would beat her for not selling any matches, she seeks refuge in a corner of the street.
+Desperately trying to warm herself, she lights one match at a time. Each flame brings her vivid, comforting visions: a warm stove, a lavish feast, and a beautiful Christmas tree. In the glow of the last match, she sees her late grandmother, the only person who ever showed her love and kindness. Longing to be with her, she strikes all the matches, and the visions grow brighter as she feels herself being drawn to her grandmother’s embrace.
+The next morning, passersby find her frozen body, still clutching the burned-out matches. Though she has died, the story implies that her spirit has ascended to a place of eternal peace and happiness with her grandmother.
+The Little Match Girl is a poignant tale about poverty, hope, and the power of imagination, highlighting the stark contrast between human suffering and the indifference of society.
 
 
 ## Huggingface
@@ -124,7 +126,7 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
    
 | Gradio Wordcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|:--:|
-|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
+|<a href="https://3e4e630ec543a3cef4.gradio.live/"> <img src="https://github.com/jinnyshin54/sAmPle-leSSoN/blob/32c146c65980ab432c133c551d3d2c24e815e0ff/qrcode_3e4e630ec543a3cef4.gradio.live%20(1).png"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
 </div>
 
 ### 기타
