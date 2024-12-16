@@ -106,12 +106,12 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Lesson Materials
 
-### Story Title: The Guardian's Secret 
+### Story Title: The Little Match Girl
 + [text link](https://americanliterature.com/author/hans-christian-andersen/short-story/the-little-match-girl/)
-+ [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
++ [image link](https://github.com/yknym00/lee-yun-kyung/blob/a788ef34bcff7182a881bd053de53817650ea852/image_LittleMatchGirl.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
-+ [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
++ [picture book link](https://www.canva.com/design/DAGY94wWvTs/KpB9wY04ro0xWeap1KtwBA/edit?utm_content=DAGY94wWvTs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **<Synopsis>**
 On a freezing New Year's Eve, a poor little girl wanders the snowy streets, barefoot and shivering. She tries to sell matches to passersby but receives no attention. Unable to return home for fear of her abusive father, who would beat her for not selling any matches, she seeks refuge in a corner of the street.
